@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fredrikh-cvsite/static/css/main.927d4bf4.css",
+    "main.js": "/fredrikh-cvsite/static/js/main.140deccb.js",
+    "static/js/592.84f12127.chunk.js": "/fredrikh-cvsite/static/js/592.84f12127.chunk.js",
+    "index.html": "/fredrikh-cvsite/index.html",
+    "main.927d4bf4.css.map": "/fredrikh-cvsite/static/css/main.927d4bf4.css.map",
+    "main.140deccb.js.map": "/fredrikh-cvsite/static/js/main.140deccb.js.map",
+    "592.84f12127.chunk.js.map": "/fredrikh-cvsite/static/js/592.84f12127.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927d4bf4.css",
+    "static/js/main.140deccb.js"
+  ]
+}

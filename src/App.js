@@ -4,7 +4,8 @@ import Menu from './components/Menu';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import About from './pages/About';
-import Resume from './pages/Resume';
+import CV from './pages/CV';
+import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import './App.css';
 
@@ -19,7 +20,8 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Home/>}/>
           <Route path="/about" element={<About/>}/>
-          <Route path="/resume" element={<Resume/>}/>
+          <Route path="/CV" element={<CV/>}/>
+          <Route path="/Portfolio" element={<Portfolio/>}/>
           <Route path="/contact" element={<Contact/>}/>
         </Routes>
       </main>

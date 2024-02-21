@@ -1,0 +1,105 @@
+{
+    "Jobs":[
+        {
+            "Id": "1",
+            "Title":"Kock",
+            "Company": "Miss Sara",
+            "Date": "2019-2023",
+            "Description": " "
+        },
+        {
+            "Id": "2",
+            "Title":"Kock",
+            "Company": "Möljens Café & Grill",
+            "Date": " ",
+            "Description": " "
+        },
+        {
+            "Id": "3",
+            "Title":"Restaurangchef",
+            "Company": "Bistro Järnvägs",
+            "Date": " ",
+            "Description": " "
+        },
+        {
+            "Id": "4",
+            "Title":"Barchef",
+            "Company": "Condis Bar & Kök",
+            "Date": " ",
+            "Description": " "
+        },
+        {
+            "Id": "5",
+            "Title":"Restaurangbiträde",
+            "Company": "Bergskrogen",
+            "Date": " ",
+            "Description": " "
+        },
+        {
+            "Id": "6",
+            "Title":"Bartender",
+            "Company": "Lockside Lounge",
+            "Date": " ",
+            "Description": " "
+        },
+        {
+            "Id": "7",
+            "Title":"Bartender",
+            "Company": "Lock 17",
+            "Date": " ",
+            "Description": " "
+        },
+        {
+            "Id": "8",
+            "Title":"Restaurangbiträde (Praktik)",
+            "Company": "Auberge de Jeunesse 'La Solei'",
+            "Date": " ",
+            "Description": " "
+        },
+        {
+            "Id": "9",
+            "Title":"Pizzabagare",
+            "Company": "Hemmavids Stenugnsbageri",
+            "Date": " ",
+            "Description": " "
+        },
+        {
+            "Id": "10",
+            "Title":"Grill/Kallskänk",
+            "Company": "Hemmavids Café",
+            "Date": " ",
+            "Description": " "
+        }
+    ],
+    "Education":[
+        {
+            "Id": "1",
+            "Title":".NET Utvecklare med AI-kompetens",
+            "School": "Edugrade",
+            "Date": "2023-2025"
+        },
+        {
+            "Id": "2",
+            "Title":"Samhälle-Ekonomi",
+            "School": "Slottegymnasiet",
+            "Date": "2010-2013"
+        }
+    ],
+    "Skills":[
+        {
+            "Id": "1",
+            "Skill": " ",
+            "Info": " "
+        },
+        {
+            "Id": "1",
+            "Skill": " ",
+            "Info": " "
+        },
+        {
+            "Id": "1",
+            "Skill": " ",
+            "Info": " "
+        }
+    ]
+}

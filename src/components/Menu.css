@@ -1,31 +1,38 @@
-.navbar{
-    width: 100%;
-    background-color: #333;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+.navbar {
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(30deg, #242228,#372624);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
-.menu-container{
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    padding: 10px;
+.navbar-brand{
+    color:#c9c1c1 !important;
 }
-.nav-links{
-    list-style: none;
-    display: flex;
-    align-items: center;
-    margin-left: 20px;
+
+.navLink {
+  color: #c9c1c1;
+  font-weight: 300;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  transition: color 0.3s, background-color 0.3s;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
-.nav-link{
-    text-decoration: none;
-    color: white;
-    margin-right: 15px;
-    padding: 25px 15px;
+
+.navLink:hover {
+    background: radial-gradient(#f0c9a3, #e2ab74);
 }
-.nav-link:hover,
-.nav-link:focus{
-    color: #61dafe;
-    background-color: #555;
-    border: solid 2px #444;
+.navLink:focus{
+    color:#e2ab74 !important;
 }
-.nav-links li{
-    margin: 10px 0;
+.hamburger{
+    background: radial-gradient(#f0c9a3, #e2ab74);
+}
+.hamburger:focus{
+    box-shadow: none;
+}
+.hamburger:hover{
+    opacity: 0.8;
 }

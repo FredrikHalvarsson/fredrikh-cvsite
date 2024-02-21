@@ -1,0 +1,29 @@
+{
+    "Portfolio":[
+        {
+            "Id": "1",
+            "Title":"Grupparbete: Bank App",
+            "Description": "Slutprojekt från YH-kursen: Objektorienterad Programmering med C# & .NET",
+            "Link": "https://github.com/ZoranDotNet/Bank-App.git"
+        },
+        {
+            "Id": "2",
+            "Title":"Slutprojekt: Databaser",
+            "Description": "Slutprojekt från YH-kursen: Programmering av databaser och SQL",
+            "Link": "https://github.com/FredrikHalvarsson/Databaser_Slutprojekt_FH.git"
+        },
+        {
+            "Id": "3",
+            "Title":"CV",
+            "Description": "Enkel CV-Webbsida i html och css, första labb från YH-kursen: Webbutv. frontend med HTML5, CSS, javascript",
+            "Link": "https://github.com/FredrikHalvarsson/Labb1-CV.git"
+        },
+        {
+            "Id": "4",
+            "Title":"ChessBoard",
+            "Description": "Projekt från YH-kursen: Objektorienterad Programmering med C# & .NET",
+            "Link": "https://github.com/FredrikHalvarsson/ChessBoard.git"
+        }
+        
+    ]
+}

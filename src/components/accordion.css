@@ -1,0 +1,31 @@
+.accordion{
+    border:solid 1px #e2ab74;
+
+}
+.accordion-body{
+    background: linear-gradient(30deg, #242228,#372624);
+    color: white;
+}
+.accordion-body a{
+    color: #e2ab74;
+    text-decoration: none;
+}
+.accordion-body a:hover{
+    color: white;
+}
+.accordion-button {
+    background: radial-gradient(#F0E0D1, #E1C2A3);
+}
+
+.accordion-button:hover {
+    opacity: 0.8;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #212529 !important;
+    box-shadow: none !important;
+}
+.accordion-button.collapsed {
+    color: #212529 !important;
+    box-shadow: none !important;
+}

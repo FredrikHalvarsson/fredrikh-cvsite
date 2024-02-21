@@ -5,7 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: radial-gradient(#F0E0D1, #E1C2A3);
 }
+/* @font-face{
+  font-family: 'Nohemi';
+  src: url(./fonts/._Nohemi-Regular.ttf) format(ttf);
+} */
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',

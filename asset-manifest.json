@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/fredrikh-cvsite/static/css/main.c03611f2.css",
-    "main.js": "/fredrikh-cvsite/static/js/main.0a954fb1.js",
+    "main.css": "/fredrikh-cvsite/static/css/main.b73366fc.css",
+    "main.js": "/fredrikh-cvsite/static/js/main.70ec3779.js",
     "static/js/592.84f12127.chunk.js": "/fredrikh-cvsite/static/js/592.84f12127.chunk.js",
     "static/media/Hudik.jpg": "/fredrikh-cvsite/static/media/Hudik.3e3e3a3958119f423acb.jpg",
     "static/media/Food.jpg": "/fredrikh-cvsite/static/media/Food.7d3ec0f84ee784dacc63.jpg",
     "static/media/ProfileImage.jpg": "/fredrikh-cvsite/static/media/ProfileImage.19f50706bc38ea125eb2.jpg",
     "index.html": "/fredrikh-cvsite/index.html",
-    "main.c03611f2.css.map": "/fredrikh-cvsite/static/css/main.c03611f2.css.map",
-    "main.0a954fb1.js.map": "/fredrikh-cvsite/static/js/main.0a954fb1.js.map",
+    "main.b73366fc.css.map": "/fredrikh-cvsite/static/css/main.b73366fc.css.map",
+    "main.70ec3779.js.map": "/fredrikh-cvsite/static/js/main.70ec3779.js.map",
     "592.84f12127.chunk.js.map": "/fredrikh-cvsite/static/js/592.84f12127.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c03611f2.css",
-    "static/js/main.0a954fb1.js"
+    "static/css/main.b73366fc.css",
+    "static/js/main.70ec3779.js"
   ]
 }

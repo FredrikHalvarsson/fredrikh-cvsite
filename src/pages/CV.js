@@ -16,7 +16,7 @@ export default function CV(){
                     </div>
                     <div className="outer-border">
                         <div className="inner-container">
-                            <GetCV dataType="Skills"/>
+                            <GetCV dataType="Languages"/>
                         </div>
                     </div>
                 </div>

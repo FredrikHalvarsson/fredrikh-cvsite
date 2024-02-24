@@ -54,15 +54,15 @@ export default function GetCV({dataType}){
                 </>
             )
         }
-        else if (dataType === "Skills"){
+        else if (dataType === "Languages"){
             return(
                 <>
-                    <h1 style={{textAlign: "center"}}>Skills</h1>
-                    {CVJson.Skills.map((skill)=>(
+                    <h1 style={{textAlign: "center"}}>Languages</h1>
+                    {CVJson.Languages.map((item)=>(
                         <ul>
-                            <li key={skill.Id}>
-                                <h2>{skill.Skill}</h2>
-                                <p>{skill.Info}</p>
+                            <li key={item.Id}>
+                                <h2>{item.Language}</h2>
+                                <p>{item.Info}</p>
                             </li>
                         </ul>
                     ))}

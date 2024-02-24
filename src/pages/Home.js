@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import Modal from '../components/ui/EggClickModal';
 const Profileimage = require('../Images/ProfileImage.jpg');
 export default function Home(){
     return (
@@ -9,7 +10,7 @@ export default function Home(){
                         <div className="inner-container">
                             <div className='img-container'>
                                 <div className="img-border">
-                                    <img className='pfp' src={Profileimage} alt="Profileimage"/>
+                                    <Modal/>
                                 </div>
                             </div>
                             <article>
@@ -21,10 +22,11 @@ export default function Home(){
                                     jag försöker dock ta mig till gymmet ett par gånger i veckan.
                                     Utöver det har jag ett stort intresse för språk och musik. <Link to='/About' className='text-link'>Läs mer...</Link></p>
                             </article>
+                            {/* <Egg></Egg> */}
                         </div>
                     </div>
                 </div>
-                <div className="center-container">
+                {/* <div className="center-container">
                     <div className="outer-border">
                         <div className="inner-container">
                         </div>
@@ -39,7 +41,7 @@ export default function Home(){
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     );

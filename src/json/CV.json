@@ -4,70 +4,77 @@
             "Id": "1",
             "Title":"Kock",
             "Company": "Miss Sara",
-            "Date": "2019-2023",
+            "Date": "24/01/2019-25/03/2023",
             "Description": " "
         },
         {
             "Id": "2",
             "Title":"Kock",
             "Company": "Möljens Café & Grill",
-            "Date": " ",
+            "Date": "03/05/2019-31/07/2023",
             "Description": " "
         },
         {
             "Id": "3",
             "Title":"Restaurangchef",
             "Company": "Bistro Järnvägs",
-            "Date": " ",
+            "Date": "03/11/2015-31/10/2018",
             "Description": " "
         },
         {
             "Id": "4",
             "Title":"Barchef",
             "Company": "Condis Bar & Kök",
-            "Date": " ",
+            "Date": "05/02/2014-01/07/2017",
             "Description": " "
         },
         {
             "Id": "5",
             "Title":"Restaurangbiträde",
             "Company": "Bergskrogen",
-            "Date": " ",
+            "Date": "01/08/2017-30/11/2017",
             "Description": " "
         },
         {
             "Id": "6",
             "Title":"Bartender",
             "Company": "Lockside Lounge",
-            "Date": " ",
+            "Date": "14/09/2015-31/10/2015",
             "Description": " "
         },
         {
             "Id": "7",
             "Title":"Bartender",
             "Company": "Lock 17",
-            "Date": " ",
+            "Date": "01/10/2015-31/10/2015",
             "Description": " "
         },
         {
             "Id": "8",
-            "Title":"Restaurangbiträde (Praktik)",
-            "Company": "Auberge de Jeunesse 'La Solei'",
-            "Date": " ",
+            "Title":"Pizzabagare",
+            "Company": "Hemmavids Stenugnsbageri",
+            "Date": "2013-2014",
             "Description": " "
         },
         {
             "Id": "9",
-            "Title":"Pizzabagare",
-            "Company": "Hemmavids Stenugnsbageri",
-            "Date": " ",
+            "Title":"Turistinformatör",
+            "Company": "Ljusdal i Centrum",
+            "Date": "01/07/2013-15/08/2013",
             "Description": " "
         },
         {
             "Id": "10",
+            "Title":"Restaurangbiträde (Praktik)",
+            "Company": "Auberge de Jeunesse 'La Solei'",
+            "Date": "16/06/2012-13/08/2012",
+            "Description": " "
+        },
+        {
+            "Id": "11",
             "Title":"Grill/Kallskänk",
             "Company": "Hemmavids Café",
-            "Date": " ",
+            "Date": "01/06/2011-12/08/2011",
             "Description": " "
         }
     ],
@@ -80,26 +87,42 @@
         },
         {
             "Id": "2",
+            "Title":"Bartenderutbildning",
+            "School": "Barskolan London",
+            "Date": "14/09/2015-11/10/2015"
+        },
+        {
+            "Id": "3",
             "Title":"Samhälle-Ekonomi",
             "School": "Slottegymnasiet",
             "Date": "2010-2013"
         }
     ],
-    "Skills":[
+    "Languages":[
         {
             "Id": "1",
-            "Skill": " ",
-            "Info": " "
+            "Language": "Svenska",
+            "Info": "Modersmål"
         },
         {
-            "Id": "1",
-            "Skill": " ",
-            "Info": " "
+            "Id": "2",
+            "Language": "Engelska",
+            "Info": "Flytande"
         },
         {
-            "Id": "1",
-            "Skill": " ",
-            "Info": " "
+            "Id": "3",
+            "Language": "Franska",
+            "Info": "Grundläggande kunskaper"
+        },
+        {
+            "Id": "4",
+            "Language": "Japanska",
+            "Info": "Grundläggande kunskaper"
+        },
+        {
+            "Id": "5",
+            "Language": "Spanska",
+            "Info": "Grundläggande kunskaper"
         }
     ]
 }

@@ -28,18 +28,18 @@ export default function GetPortfolio({}){
                         {posts.map((item) => (
                             <>
                                 <Accordion flush="true">
-                                <AccordionItem key={item.id}>
-                                    <AccordionButton>
-                                            {item.name}
-                                    </AccordionButton>
-                                    <AccordionCollapse>
-                                        <AccordionBody>
-                                            <p>{item.description}</p>
-                                            <a href={item.html_url}>To Repository</a>
-                                        </AccordionBody>
-                                    </AccordionCollapse>
-                                </AccordionItem>
-                            </Accordion>
+                                    <AccordionItem key={item.id}>
+                                        <AccordionButton>
+                                                {item.name}
+                                        </AccordionButton>
+                                        <AccordionCollapse>
+                                            <AccordionBody>
+                                                <p>{item.description}</p>
+                                                <a href={item.html_url}>To Repository</a>
+                                            </AccordionBody>
+                                        </AccordionCollapse>
+                                    </AccordionItem>
+                                </Accordion>
                             </>
                         ))}
                     </div>
